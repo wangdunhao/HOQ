@@ -1,0 +1,16 @@
+/*!*该CSS样式表单主要用来进行表格定位*!*/
+
+#CflMatrix{
+    /*position: absolute;*/
+    /*left: 50%;*/
+    transform: rotate(-45deg);
+    /*transform: translate(-50%,0);*/
+}
+
+#ReqMatrix{
+    /*left: 50%;*/
+    transform: rotate(-90deg);
+}
+
+
+
